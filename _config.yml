@@ -17,7 +17,7 @@ title: cborg :glasses:
 email: cborg@citrine.io
 description: > # this means to ignore newlines until "baseurl:"
   Remember the time he ate my goldfish? And you lied and said I never had goldfish.
-  Then why did I have the bowl, Bart? Why did I have the bowl? error?
+  Then why did I have the bowl, Bart? Why did I have the bowl?
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ckborg
@@ -28,6 +28,7 @@ markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
+  - emoji_for_jekyll
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
