@@ -28,7 +28,7 @@ markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
-  - emoji_for_jekyll
+  - jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
