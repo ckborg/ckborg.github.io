@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2018-03-31 14:31:35 -0600
-categories: jekyll update
+title:  "testing emoji support"
+date:   2018-04-04 07:35:00 -0600
+categories: emoji
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+:glasses: `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+:+1:
 
+`YYYY-MM-DD-name-of-post.ext`
 Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
