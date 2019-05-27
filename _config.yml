@@ -15,7 +15,7 @@ gems:
   - jekyll-feed
   - jemoji
 
-exclude:
+# exclude:
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
