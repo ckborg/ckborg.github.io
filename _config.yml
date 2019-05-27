@@ -1,3 +1,8 @@
 title: One trick pony
 description: A virtual proof that name is awesome!
 
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
