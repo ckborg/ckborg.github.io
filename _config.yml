@@ -3,6 +3,6 @@ description: A virtual proof that name is awesome!
 
 # Build settings
 markdown: kramdown
-theme: HackCSS
+theme: minima
 gems:
   - jekyll-feed
