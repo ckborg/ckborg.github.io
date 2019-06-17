@@ -1,5 +1,8 @@
 ---
 layout: default
+
+sidebar:
+  nav: "docs"
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
