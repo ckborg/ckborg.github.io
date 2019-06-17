@@ -3,5 +3,3 @@ description: trying out new themes
 
 # Build settings
 theme: jekyll-theme-minimal
-gems:
-  - jekyll-feed
