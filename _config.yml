@@ -1,5 +1,5 @@
-title: one trick pony
-description: trying out new themes
-
-# Build settings
 theme: jekyll-theme-minimal
+
+title: Hi, I'm Chris
+description: Check out my latest and greatest
+logo: /assets/img/logo.png
