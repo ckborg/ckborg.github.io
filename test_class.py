@@ -1,7 +1,7 @@
 class Person:
     '''sample dostring
     Note:
-        Do not include the `self` parameter in the ``Args`` section.
+        updated the notes in this docstring
 
     Args:
         msg (str): Human readable string describing the exception.
