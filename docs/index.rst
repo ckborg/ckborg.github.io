@@ -10,7 +10,7 @@ Welcome to cborg_docs_test's documentation!
    :maxdepth: 2
    :caption: Contents:
    
-   :modules.rst
+   modules.rst
 
 Indices and tables
 ==================
